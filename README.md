@@ -45,10 +45,11 @@
 ---
 
 ## 📁 Files Included
-
-- `network_traffic.pcap` – Captured packet data file
 - `Report.docx` – Detailed analysis and summary (optional)
 - `README.md` – This file
+- `dns.pcap` – Captured packet data file
+- `tcp.pcap` – Captured packet data file
+- `udp.pcap` – Captured packet data file
 
 ---
 
